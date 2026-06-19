@@ -15,6 +15,8 @@ The analysis includes data collection, inflation adjustment using CPI data and p
 -	Tested the impact of different training window lengths
 
   <img width="2444" height="910" alt="image" src="https://github.com/user-attachments/assets/a860a835-d19e-4c16-b26f-e3cb9a9dc267" />
+  Comparison of stock performance across selected S&P 500 companies over a sample period
+  
 <img width="2050" height="1000" alt="image" src="https://github.com/user-attachments/assets/dc1d3000-3f3b-42b6-9d2f-d649e7629d0e" />
 MLP model achieved RMSE of 12.2 when forecasting inflation-adjusted prices for Microsoft
 
