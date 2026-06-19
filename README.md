@@ -21,6 +21,8 @@ The analysis includes data collection, inflation adjustment using CPI data and p
 -	Forecasting performance varied dramatically across companies, with Bank of America having the lowest prediction error (RMSE = 1.28) whilst Tesla and Goldman Sachs were far harder to model accurately, with each having an RMSE of 18.50 and 17.52, respectively.
 -	Stocks that were less volatile and had smoother price trends tended to generate the most reliable forecasts.
 Overall, the results suggest the machine learning models can capture broad price trends for less volatile stocks, but forecasting accuracy drops and market volatility decreases.
+<img width="2444" height="910" alt="image" src="https://github.com/user-attachments/assets/c3883cce-573f-45a5-b91b-379048bf8d61" />
+
 
 **Technology used**
 
